@@ -11,7 +11,7 @@ public class munuPrincipal : MonoBehaviour
 
 [SerializeField] private GameObject MenuInicial;
 
-[SerializeField] private GameObject Opcoes;;
+[SerializeField] private GameObject Opcoes;
 
 public void Play()
 {
